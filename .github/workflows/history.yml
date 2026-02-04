@@ -1,4 +1,4 @@
-name: CI
+name: My-GithubActions-Myapp
 
 on:
   push:
